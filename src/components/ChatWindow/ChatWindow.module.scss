@@ -1,0 +1,10 @@
+@import 'shared';
+
+.ChatWindow {
+  width: 100%;
+  min-width: px(250);
+
+  .title {
+    margin-bottom: px(10);
+  }
+}
